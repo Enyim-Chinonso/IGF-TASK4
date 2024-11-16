@@ -1,0 +1,243 @@
+body {
+  background-color: #f0f0f0;
+}
+
+.all-container {
+  width: 500px;
+  height: 500px;
+  padding: 40px;
+  margin-left: 30%;
+  background-color: aliceblue;
+  overflow-y: scroll;
+}
+
+.x-overflow {
+  overflow-x: scroll;
+  display: flex;
+  gap: 10px;
+}
+
+h5 {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.x-overflow img {
+  width: 50px;
+  height: 80px;
+  margin: 0 10px;
+  border-radius: 50%;
+  gap: 20px;
+  display: block;
+}
+
+#chat {
+  color: green;
+  padding-bottom: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#soccer {
+  display: block;
+  width: 150px;
+  height: 100px;
+  border: solid grey 1px;
+  padding: 10px 0 80px 16px;
+  border-radius: 20px;
+}
+
+#sdg {
+  display: block;
+  width: 90px;
+  height: 100px;
+  border: solid grey 1px;
+  padding: 10px 0 80px 16px;
+  border-radius: 20px;
+}
+#netflix {
+  display: block;
+  width: 90px;
+  height: 100px;
+  border: solid grey 1px;
+  padding: 10px 0 80px 16px;
+  border-radius: 20px;
+}
+
+#WHO {
+  display: block;
+  width: 90px;
+  height: 100px;
+  border: solid grey 1px;
+  padding: 10px 0 80px 16px;
+  border-radius: 20px;
+}
+
+#nature {
+  display: block;
+  width: 90px;
+  height: 100px;
+  border: solid grey 1px;
+  padding: 10px 0 80px 16px;
+  border-radius: 20px;
+}
+
+#barca {
+  display: block;
+  width: 90px;
+  height: 100px;
+  border: solid grey 1px;
+  padding: 10px 0 80px 16px;
+  border-radius: 20px;
+}
+
+#madrid {
+  display: block;
+  width: 90px;
+  height: 100px;
+  border: solid grey 1px;
+  padding: 10px 0 80px 16px;
+  border-radius: 20px;
+}
+
+#BVB {
+  display: block;
+  width: 90px;
+  height: 100px;
+  border: solid grey 1px;
+  padding: 10px 0 80px 16px;
+  border-radius: 20px;
+}
+
+#chelsea {
+  display: block;
+  width: 90px;
+  height: 100px;
+  border: solid grey 1px;
+  padding: 10px 0 80px 16px;
+  border-radius: 20px;
+}
+
+#man {
+  display: block;
+  width: 90px;
+  height: 100px;
+  border: solid grey 1px;
+  padding: 10px 0 80px 16px;
+  border-radius: 20px;
+}
+
+#liverpool {
+  display: block;
+  width: 90px;
+  height: 100px;
+  border: solid grey 1px;
+  padding: 10px 0 80px 16px;
+  border-radius: 20px;
+}
+
+button {
+  background-color: rgb(217, 253, 211);
+  color: green;
+  border: transparent;
+  border-radius: 40px;
+  width: 60px;
+  height: 20px;
+  font-size: 10px;
+}
+
+#btn {
+  background-color: green;
+  color: white;
+  width: 120px;
+  height: 30px;
+}
+
+.complex-1 {
+  display: flex;
+  width: 200px;
+  gap: 20px;
+}
+.complex-1 img {
+  border-radius: 50%;
+}
+
+.complex-2 {
+  display: flex;
+  width: 200px;
+  gap: 30px;
+}
+.complex-2 img {
+  border-radius: 50%;
+}
+
+.complex-3 {
+  display: flex;
+  gap: 30px;
+  width: 500px;
+}
+.complex-3 img {
+  border-radius: 50%;
+}
+
+.complex-4 {
+  display: flex;
+  gap: 40px;
+  width: 300px;
+}
+.complex-4 img {
+  border-radius: 50%;
+}
+
+.complex-5 {
+  display: flex;
+  width: 400px;
+  gap: 30px;
+}
+.complex-5 img {
+  border-radius: 50%;
+}
+
+.complex-6{
+  display: flex;
+  width: 300px;
+  gap: 30px;
+}
+.complex-6 img{
+  border-radius: 50%;
+}
+
+.complex-7{
+  display: flex;
+  width: 300px;
+  gap: 30px;
+}
+.complex-7 img{
+  border-radius: 50%;
+}
+
+.complex-8{
+  display: flex;
+  width: 300px;
+  gap: 30px;
+}
+.complex-8 img{
+  border-radius: 50%;
+}
+
+.complex-9{
+  display: flex;
+  width: 300px;
+  gap: 30px;
+}
+.complex-9 img{
+  border-radius: 50%;
+}
+
+.complex-10{
+  display: flex;
+  width: 300px;
+  gap: 30px;
+}
+.complex-10 img{
+  border-radius: 50%;
+}
